@@ -4,9 +4,9 @@
 
 <br>
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/itsfatduck)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-202020?style=for-the-badge&logo=kofi&logoColor=FF5A22)](https://ko-fi.com/itsfatduck)
+<br>
+[![Discord Profile](https://img.shields.io/badge/Discord-Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/774142265248710678)
+[![Discord Server](https://img.shields.io/badge/Discord-Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tDUBDCYw9Q)
 
 </div>
-
-![Profile Views](https://komarev.com/ghpvc/?username=itsfatduck&color=brightgreen&style=flat-square&label=Profile+Views)
