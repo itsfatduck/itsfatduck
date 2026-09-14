@@ -10,3 +10,6 @@
 [![Discord Server](https://img.shields.io/badge/Discord-Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tDUBDCYw9Q)
 
 </div>
+
+_**Không bao giờ** trở lại đâu, sẽ không bao giờ trở lại đâu_<br>
+_Những hồn nhiên ngày thời thơ bé sẽ **không bao giờ trở lại đâu**_<br>
