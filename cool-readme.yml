@@ -7,7 +7,14 @@ count:
 look:
   style: dotmatrix
   color: github
+  animations: true
   background: none
 cards:
+  languages:
+    title: class Languages
+  contributions:
+    title: class Contributions
   about:
-    headline: "cats and dogs"
+    title: class About
+    headline: "Hi, I'm *fatDuck*!"
+    lines: ["Nothing is truly easy; it only seems that way because you've improved and become better than you were before."]
