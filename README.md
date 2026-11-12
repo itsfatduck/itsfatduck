@@ -10,3 +10,8 @@
 [![Discord Server](https://img.shields.io/badge/Discord-Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tDUBDCYw9Q)
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsfatduck/itsfatduck/cards/summary-dark.svg">
+  <img src="https://raw.githubusercontent.com/itsfatduck/itsfatduck/cards/summary-light.svg" width="400" alt="GitHub stats">
+</picture>
