@@ -1,0 +1,13 @@
+# Settings: https://github.com/pedrocatalao/github-cool-readme#settings
+user: itsfatduck
+show: [summary, languages, contributions, weekly, about]
+count:
+  private: true
+  orgs: true
+look:
+  style: dotmatrix
+  color: github
+  background: none
+cards:
+  about:
+    headline: "cats and dogs"
