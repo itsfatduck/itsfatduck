@@ -11,9 +11,9 @@ look:
   background: none
 cards:
   languages:
-    title: class Languages{}
+    title: class Languages
   about:
-    title: class About{}
+    title: class About
     headline: "it's *fatDuck*!"
     lines:
       - "Nothing is truly easy; it only seems that way because you've improved and become better than you were before."
